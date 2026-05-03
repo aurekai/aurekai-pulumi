@@ -6,7 +6,7 @@
 
 Aurekai integration surface for Pulumi.
 
-Status: planned
+Status: active
 Type: infra
 
 ## Core Template Set

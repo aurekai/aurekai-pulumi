@@ -1,0 +1,3 @@
+name: aurekai-pulumi
+runtime: python
+description: Aurekai pipeline Pulumi stack
